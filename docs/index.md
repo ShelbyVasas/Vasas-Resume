@@ -1,84 +1,76 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Shelby Vasas
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+(208) 240-1374 | shelbyvasas@gmail.com
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+  <a href="https://www.shelbyvasas.com">Personal Site</a>
+| <a href="https://www.linkedin.com/in/shelby-vasas/">LinkedIn</a>
+| <a href="https://github.com/ShelbyVasas">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`April 2019 - April 2022`
+__Idaho State University__, Pocatello, ID
+
+- Full academic scholarship with 4.0 GPA
+- Division 1 Varsity Track and Field Athlete
+- Transferred to BYU-I in fall of 2022
+
+`September 2022 - Present`
+__Brigham Young University - Idaho__, Rexburg, ID
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+### Skills
+- C#, Java, Python, HTML/CSS, JavaScript
+- Git, Agile Development
+- React, Java Spring Boot
 
-- 4.0 Major GPA
+### Experience
 
+`April 2023 - September 2023`
+__Family Search__, Software Engineer Intern
 
-## Related Experience
+- Collaborated with a small team on the development of end-to-end products as a Full Stack Engineer at
+FamilySearch, playing a pivotal role in the design, testing, and global release of application updates serving
+400,000 daily users
+- Demonstrated versatility by mastering Spring Boot and Java for back-end development, while also excelling in
+front-end technologies such as JavaScript and React
+- Utilized the company's UI library and additionally crafted custom components, enhancing the application's user
+interface and functionality
 
-### Internships
+`January 2021 - September 2023`
+__Americorps__, Service Member
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+- Developed and implemented a social media strategy for Americorps, including creating and scheduling daily
+posts for Facebook and Instagram
+- Planned and executed regular events designed to spread awareness on health related issues benefiting a variety of demographics, two main groups including children and minoritiesebook and Instagram
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`January 2016 - Present`
+__Butterburrs Lickety Split__, Manager
 
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Managed finances for using QuickBooks, including tracking income and expenses, creating financial reports, and
+reconciling bank statements
+- Fostered a positive team culture daily through team collaboration and goal setting techniques to improve
+customer satisfaction and increase business revenue
+- Handled hundreds of concurrent microtransactions in a fast paced environment daily
 
 
-## Service and Work History
+## Service
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2020-2021`
+__Service Missionary__, New York City
 
-
-`2023-2025`
-__Service Missionary__, South Africa
+- Utilized Excel to contact and organize hundreds of individuals in the New York Metropolitan area, including
+creating and maintaining detailed contact lists, scheduling and coordinating events, and tracking and reporting on
+progress
+- Started and managed social media feeds in New York City, reaching hundreds of individuals through effective
+content creation, engagement strategies, and analysis of metrics to inform future efforts
 
 
 
